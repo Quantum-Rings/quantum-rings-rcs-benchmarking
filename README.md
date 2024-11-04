@@ -17,7 +17,7 @@ Folder Organization
 
 Download the Data files dated June 13, 2022, from [DRYAD](https://doi.org/10.5061/dryad.k6t1rj8).
 Expand the 'tar.gz' files
-Retain the QASM files with the pattern `circuit_n*_m14_s*_e0_pEFGH.qasm` and the amplitude files with the pattern `amplitudes_n*_m14_s*_e0_pEFGH.qasm`
+Retain the QASM files with the pattern `circuit_n*_m14_s*_e0_pEFGH.qasm` and the amplitude files with the pattern `amplitudes_n*_m14_s*_e0_pEFGH.txt`
 You may discard the rest of the files.
 To keep everything well organized, you can store the QASM files and amplitude files in a folder structure like this:
 
