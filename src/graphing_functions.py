@@ -15,9 +15,9 @@
 
 
 
-def plot_Potter_ThomsonDistribution( sourcefilename, graphfilename ):
+def plot_Porter_ThomasDistribution( sourcefilename, graphfilename ):
     """
-    Plots the Potter Thomson distrubution
+    Plots the Porter Thomas distrubution
 
     Parameters:
         sourcefilename(str)     - The input amplitude file.
