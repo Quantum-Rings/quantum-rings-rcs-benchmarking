@@ -9,7 +9,7 @@ Folder Organization
        |    ├── fxeb_calculation.py                        <- Python code containing routines to calculate linear F_XEB
        |    ├── graphing_functions.py                      <- Python code containing graphing functions   
        ├── README.md                                       <- This file
-       ├── amplitudes                                       <- Look here for more information on from where to download the amplitude files from Quantum Rings experiments
+       ├── amplitudes                                      <- Look here for more information on from where to download the amplitude files from Quantum Rings experiments
                             
 --------------------
 
